@@ -1,0 +1,23 @@
+body 
+{
+    background-color: white; font-family: Helvetica;
+}
+header
+{
+    text-align: center;
+    font-size: 42px;
+    color: white;
+    background-color: tomato;
+}
+
+.liste
+{
+float: left;
+width: 30%;
+background-color: rgb(255, 255, 134);
+border: black 2px solid;
+}
+.recette
+{
+    float: right;
+}
